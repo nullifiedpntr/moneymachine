@@ -1,0 +1,17 @@
+C:\Users\gamer\source\repos\money machine\money machine\bin\Release\net8.0\money machine.exe
+C:\Users\gamer\source\repos\money machine\money machine\bin\Release\net8.0\money machine.deps.json
+C:\Users\gamer\source\repos\money machine\money machine\bin\Release\net8.0\money machine.runtimeconfig.json
+C:\Users\gamer\source\repos\money machine\money machine\bin\Release\net8.0\money machine.dll
+C:\Users\gamer\source\repos\money machine\money machine\bin\Release\net8.0\money machine.pdb
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\money machine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\money machine.AssemblyInfoInputs.cache
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\money machine.AssemblyInfo.cs
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\money machine.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\money machine.dll
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\refint\money machine.dll
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\money machine.pdb
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\money machine.genruntimeconfig.cache
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\ref\money machine.dll
+C:\Users\gamer\source\repos\money machine\money machine\bin\Release\net8.0\HtmlAgilityPack.dll
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\money machine.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\money machine\money machine\obj\Release\net8.0\money ma.BFCC8DB8.Up2Date

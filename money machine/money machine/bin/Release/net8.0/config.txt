@@ -1,0 +1,7 @@
+minimum: 100
+maximum: 500
+estimate_price: false
+region: US
+lock: false	
+payments: Venmo
+lock_payment: true
